@@ -16,6 +16,14 @@ This project is a hardware-based proximity sensor module built for Fontys Univer
 * **Alert State:** When an object breaches the 5cm threshold, the system registers a hit and triggers a Red state.
 
 ## 📸 Media & Diagrams
-1. **Hardware Setup:** *(Upload a photo of your physical breadboard with the ESP32 and wires)*
-3. **Circuit Diagram:** *(Upload a screenshot of your Fritzing wiring diagram)*
-4. **Validation Demo:** *(Upload a screenshot or short GIF from your 5cm distance test video)*
+1. **Hardware Setup:** <img width="4000" height="3000" alt="20260910_231324 (1)" src="https://github.com/user-attachments/assets/b20efca7-ca39-4afe-81e2-bf3db3a04b7b" />
+
+3. **Circuit Diagram:** <img width="821" height="477" alt="Screenshot 2026-09-15 170357" src="https://github.com/user-attachments/assets/59946f0e-97c6-4dc7-a842-732c39f4c947" />
+
+4. **Validation Demo:** 
+
+https://github.com/user-attachments/assets/2f8b2570-4d03-415a-8f68-d1060d3dee60
+
+
+
+
